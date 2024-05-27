@@ -135,7 +135,7 @@ header{
             font-family:"Montserrat", sans-serif;
             font-optical-sizing: auto;
             font-weight:900;
-            font-size:600%;
+            font-size:120px;
         }
 
         #MyImg{
@@ -250,7 +250,8 @@ footer{
         margin-top: 10px;
         margin-left:15%;
         margin-bottom:30px;
-
+        font-weight:800;
+        font-size:60px;
     }
     ul
     {
